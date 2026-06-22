@@ -1,0 +1,2 @@
+Hello, welcome to file handling!
+ This is new line!

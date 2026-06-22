@@ -1,0 +1,6 @@
+Rice: 5000
+Sugar: 3000
+Oil: 4500
+Flour: 2000
+Milk: 1500
+Bread: 2500
